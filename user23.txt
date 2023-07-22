@@ -1,2 +1,0 @@
-this is just a dummy file created in terminal itself.
-I have changed it for the first time
